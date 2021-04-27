@@ -1,0 +1,16 @@
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.csprojAssemblyReference.cache
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.AssemblyInfoInputs.cache
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.AssemblyInfo.cs
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.csproj.CoreCompileInputs.cache
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.exe
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.deps.json
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.runtimeconfig.json
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.runtimeconfig.dev.json
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.dll
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\bin\Debug\netcoreapp3.1\FirstTest.pdb
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.csproj.CopyComplete
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.dll
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.pdb
+C:\Users\Hellcur\Desktop\demoProject\FirstTest\obj\Debug\netcoreapp3.1\FirstTest.genruntimeconfig.cache
